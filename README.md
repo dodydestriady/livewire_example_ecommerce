@@ -25,6 +25,7 @@ Create Database and cp .env.example .env and then add yout DB credentials
 $ git clone https://github.com/dodydestriady/livewire_example_ecommerce.git && cd livewire_example_ecommerce 
 $ composer install
 $ npm install && npm run dev
+$ php artisan migrate --seed
 $ php artisan serve
 ```
 
