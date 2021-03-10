@@ -30,5 +30,7 @@ $ php artisan serve
 
 ## Screenshot
 ![Alt text](/../master/sc/1.png)
-![Alt text](/../master/sc/1.png)
-![Alt text](/../master/sc/1.png)
+![Alt text](/../master/sc/2.png)
+![Alt text](/../master/sc/3.png)
+![Alt text](/../master/sc/4.png)
+![Alt text](/../master/sc/5.png)
