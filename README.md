@@ -29,7 +29,6 @@ $ php artisan serve
 ```
 
 ## Screenshot
-![Alt text](/../<branch name>/sc/img1.jpg)
-![Alt text](/../<branch name>/sc/img2.jpg)
-![Alt text](/../<branch name>/sc/img3.jpg)
-![Alt text](/../<branch name>/sc/img4.jpg)
+![Alt text](/../master/sc/1.png)
+![Alt text](/../master/sc/1.png)
+![Alt text](/../master/sc/1.png)
